@@ -1,0 +1,21 @@
+ID   Name                                      Plataform      Price    instock    Release Date
+1    Valheim                                   PC             15.99    1          02/02/2021
+2    The Legend of Zelda: Breath of the Wild   Switch         49.99    1          06/11/2000
+3    Red Dead Redemption 2                     Playstation 4  49.99    1          26/10/2018
+4    Grand Theft Auto V                        PC             20.00    1          17/09/2013
+5    Half-Life 2                               PC             10.50    1          16/11/2004
+6    Bioshock                                  Xbox 360       9.99     0          21/08/2007
+7    Elden Ring                                PC             49.99    1          25/02/2022
+8    God of War: Ragnarok                      Playstation 5  59.99    1          09/11/2022
+9    Horizon Forbidden West                    Playstation 5  59.99    1          18/02/2022
+10   Stray                                     Playstation 4  49.99    1          19/07/2022
+11   Pokemon Legends: Arceus                   Switch         49.99    1          28/01/2022
+12   Total War: WARHAMMER III                  PC             49.99    1          16/02/2022
+13   Call of Duty Modern Warfare II            Playstation 5  49.99    1          27/10/2022
+14   The Last of Us Part I                     Playstation 5  49.99    1          02/09/2022
+15   The Callisto Protocol                     PC             49.99    1          02/12/2022
+16   Tiny Tina's Wonderlands                   Playstation 5  49.99    1          24/03/2022
+17   Pokemon Scarlet                           Switch         49.99    1          18/11/2022
+18   Pokemon Violet                            Switch         49.99    1          18/11/2022
+19   Gran Turismo 7                            PC             49.99    1          04/03/2022
+20   Far Cry 6                                 Xbox X         39.99    0          07/10/2021
