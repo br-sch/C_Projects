@@ -1,6 +1,6 @@
 /*
-Name: Brian Schnabel
-ID: 323532762
+Assigned by:
+Name: Brian Sch
 */
 
 #define _CRT_SECURE_NO_WARNINGS
