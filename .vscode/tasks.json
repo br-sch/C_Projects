@@ -1,0 +1,26 @@
+{
+    "tasks": [
+        {
+            "label": "build basic_func.exe",
+            "type": "shell",
+            "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe",
+            "args": [
+                "-fdiagnostics-color=always",
+                "-g",
+                "${workspaceFolder}/Basic_Functions/basic_func.c",
+                "-o",
+                "${workspaceFolder}/Basic_Functions/BasicFunctions.exe",
+                "-lm"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": [
+                "$gcc"
+            ],
+            "detail": "Builds BasicFunctions.exe from basic_func.c."
+        }
+    ],
+    "version": "2.0.0"
+}
